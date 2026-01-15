@@ -1,2 +1,10 @@
-# pradeep.github.io
-# Welcome 
+---
+title: "Quarto Basics"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+For a demonstration of a line plot on a polar axis, see
+@fig-polar.
